@@ -1,0 +1,78 @@
+C:\Users\UTENTE\AppData\Local\Temporary Projects\Mw2 Clan Tag Editor\bin\Debug\Mw2 Clan Tag Editor.exe
+C:\Users\UTENTE\AppData\Local\Temporary Projects\Mw2 Clan Tag Editor\bin\Debug\Mw2 Clan Tag Editor.pdb
+C:\Users\UTENTE\AppData\Local\Temporary Projects\Mw2 Clan Tag Editor\bin\Debug\Mw2 Clan Tag Editor.xml
+C:\Users\UTENTE\AppData\Local\Temporary Projects\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form1.resources
+C:\Users\UTENTE\AppData\Local\Temporary Projects\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Resources.resources
+C:\Users\UTENTE\AppData\Local\Temporary Projects\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.vbproj.GenerateResource.Cache
+C:\Users\UTENTE\AppData\Local\Temporary Projects\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.exe
+C:\Users\UTENTE\AppData\Local\Temporary Projects\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.xml
+C:\Users\UTENTE\AppData\Local\Temporary Projects\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.pdb
+C:\Users\UTENTE\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.exe
+C:\Users\UTENTE\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.xml
+C:\Users\UTENTE\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.pdb
+C:\Users\UTENTE\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form1.resources
+C:\Users\UTENTE\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Resources.resources
+C:\Users\UTENTE\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.vbproj.GenerateResource.Cache
+C:\Users\UTENTE\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.vbprojResolveAssemblyReference.cache
+C:\Users\UTENTE\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\bin\Debug\Mw2 Clan Tag Editor.exe
+C:\Users\UTENTE\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\bin\Debug\Mw2 Clan Tag Editor.pdb
+C:\Users\UTENTE\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\bin\Debug\Mw2 Clan Tag Editor.xml
+C:\Users\UTENTE\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\bin\Debug\FileCheetah.dll
+C:\Users\UTENTE\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form2.resources
+C:\Users\UTENTE\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form3.resources
+C:\Users\UTENTE\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form4.resources
+C:\Users\UTENTE\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\UTENTE\Desktop\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.exe
+C:\Users\UTENTE\Desktop\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.xml
+C:\Users\UTENTE\Desktop\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.pdb
+C:\Users\UTENTE\Desktop\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\bin\Debug\Mw2 Clan Tag Editor.exe
+C:\Users\UTENTE\Desktop\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\bin\Debug\Mw2 Clan Tag Editor.pdb
+C:\Users\UTENTE\Desktop\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\bin\Debug\Mw2 Clan Tag Editor.xml
+C:\Users\UTENTE\Desktop\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.vbprojResolveAssemblyReference.cache
+C:\Users\UTENTE\Desktop\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form1.resources
+C:\Users\UTENTE\Desktop\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form2.resources
+C:\Users\UTENTE\Desktop\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form3.resources
+C:\Users\UTENTE\Desktop\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form4.resources
+C:\Users\UTENTE\Desktop\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Resources.resources
+C:\Users\UTENTE\Desktop\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.vbproj.GenerateResource.Cache
+C:\Users\MAURO\Desktop\DevKit\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.exe
+C:\Users\MAURO\Desktop\DevKit\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.xml
+C:\Users\MAURO\Desktop\DevKit\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.pdb
+C:\Users\MAURO\Desktop\DevKit\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\bin\Debug\Mw2 Clan Tag Editor.exe
+C:\Users\MAURO\Desktop\DevKit\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\bin\Debug\Mw2 Clan Tag Editor.pdb
+C:\Users\MAURO\Desktop\DevKit\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\bin\Debug\Mw2 Clan Tag Editor.xml
+C:\Users\MAURO\Desktop\DevKit\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.vbprojResolveAssemblyReference.cache
+C:\Users\MAURO\Desktop\DevKit\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form1.resources
+C:\Users\MAURO\Desktop\DevKit\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form2.resources
+C:\Users\MAURO\Desktop\DevKit\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form3.resources
+C:\Users\MAURO\Desktop\DevKit\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form4.resources
+C:\Users\MAURO\Desktop\DevKit\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Resources.resources
+C:\Users\MAURO\Desktop\DevKit\VBS\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.vbproj.GenerateResource.Cache
+C:\Users\MAURO\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.exe
+C:\Users\MAURO\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.xml
+C:\Users\MAURO\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.pdb
+C:\Users\MAURO\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\bin\Debug\Mw2 Clan Tag Editor.exe
+C:\Users\MAURO\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\bin\Debug\Mw2 Clan Tag Editor.pdb
+C:\Users\MAURO\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\bin\Debug\Mw2 Clan Tag Editor.xml
+C:\Users\MAURO\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.vbprojResolveAssemblyReference.cache
+C:\Users\MAURO\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form1.resources
+C:\Users\MAURO\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form2.resources
+C:\Users\MAURO\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form3.resources
+C:\Users\MAURO\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form4.resources
+C:\Users\MAURO\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Resources.resources
+C:\Users\MAURO\Desktop\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.vbproj.GenerateResource.Cache
+D:\Archive\Memento\Backups\Visual Studio\Basic (.NET)\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\bin\Debug\Mw2 Clan Tag Editor.exe
+D:\Archive\Memento\Backups\Visual Studio\Basic (.NET)\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\bin\Debug\Mw2 Clan Tag Editor.pdb
+D:\Archive\Memento\Backups\Visual Studio\Basic (.NET)\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\bin\Debug\Mw2 Clan Tag Editor.xml
+D:\Archive\Memento\Backups\Visual Studio\Basic (.NET)\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.vbprojAssemblyReference.cache
+D:\Archive\Memento\Backups\Visual Studio\Basic (.NET)\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form1.resources
+D:\Archive\Memento\Backups\Visual Studio\Basic (.NET)\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form2.resources
+D:\Archive\Memento\Backups\Visual Studio\Basic (.NET)\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form3.resources
+D:\Archive\Memento\Backups\Visual Studio\Basic (.NET)\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Form4.resources
+D:\Archive\Memento\Backups\Visual Studio\Basic (.NET)\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2_Clan_Tag_Editor.Resources.resources
+D:\Archive\Memento\Backups\Visual Studio\Basic (.NET)\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.vbproj.GenerateResource.cache
+D:\Archive\Memento\Backups\Visual Studio\Basic (.NET)\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.vbproj.CoreCompileInputs.cache
+D:\Archive\Memento\Backups\Visual Studio\Basic (.NET)\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.vbproj.CopyComplete
+D:\Archive\Memento\Backups\Visual Studio\Basic (.NET)\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.exe
+D:\Archive\Memento\Backups\Visual Studio\Basic (.NET)\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.xml
+D:\Archive\Memento\Backups\Visual Studio\Basic (.NET)\Mw2 Clan Tag Editor\Mw2 Clan Tag Editor\obj\x86\Debug\Mw2 Clan Tag Editor.pdb
